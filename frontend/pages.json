@@ -1,0 +1,20 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "健康分诊助手",
+				"navigationBarBackgroundColor": "#4A90E2",
+				"navigationBarTextStyle": "white",
+				"backgroundColor": "#f5f7fa"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "健康分诊助手",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
