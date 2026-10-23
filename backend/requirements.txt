@@ -1,0 +1,29 @@
+# Web 服务
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# 数据库
+sqlalchemy
+pymysql
+
+# HTTP / 地图服务
+requests
+
+# LangChain / LangGraph
+langchain-core
+langchain-openai
+langchain-community
+langchain-classic
+langchain-chroma
+langchain-ollama
+langchain-text-splitters
+langgraph
+
+# 向量库与文档处理
+chromadb
+unstructured[md]
+
+# Reranker（HuggingFaceCrossEncoder）
+sentence-transformers
